@@ -1350,8 +1350,8 @@ Lewis Moonie,Lewis,Moonie,Kirkcaldy,Lab,16/07/1987,,119 c1363-6,1987,1363
 Mildred Gordon,Mildred,Gordon,Bow & Poplar,Lab,15/07/1987,,119 c1245-50,1987,1245
 Harry Barnes,Harry,Barnes,North East Derbyshire,Lab,13/07/1987,,119 c787-90,1987,787
 John Bowis,John,Bowis,Battersea,Con,13/07/1987,,119 c722-6,1987,722
-Menzies Campbell,Menzies,Campbell,North East Fife,Lib,13/07/1987,,119 c784-5,1987,784
-Ray Michie,Ray,Michie,Argyll & Bute,Lib,13/07/1987,,119 c716-8,1987,716
+Menzies Campbell,Menzies,Campbell,North East Fife,LD,13/07/1987,,119 c784-5,1987,784
+Ray Michie,Ray,Michie,Argyll & Bute,LD,13/07/1987,,119 c716-8,1987,716
 Graham Riddick,Graham,Riddick,Colne Valley,Con,13/07/1987,,119 c735-7,1987,735
 Ian Taylor,Ian,Taylor,Esher,Con,13/07/1987,,119 c744-7,1987,744
 Brian Wilson,Brian,Wilson,Cunninghame North,Lab,13/07/1987,,119 c737-40,1987,737
@@ -1381,7 +1381,7 @@ Elliot Morley,Elliot,Morley,Glanford & Scunthorpe,Lab,06/07/1987,,119 c137-9,198
 Joan Walley,Joan,Walley,Stoke-on-Trent North,Lab,06/07/1987,,119 c127-8,1987,127
 David Wilshire,David,Wilshire,Spelthorne,Con,06/07/1987,,119 c120-2,1987,120
 Rupert Allason,Rupert,Allason,Torbay,Con,03/07/1987,,118 c767-8,1987,767
-Ronnie Fearn,Ronnie,Fearn,Southport,Lib,03/07/1987,,118 c769-71,1987,769
+Ronnie Fearn,Ronnie,Fearn,Southport,LD,03/07/1987,,118 c769-71,1987,769
 John Greenway,John,Greenway,Ryedale,Con,03/07/1987,,118 c754-7,1987,754
 Alan Meale,Alan,Meale,Mansfield,Lab,03/07/1987,,118 c797-9,1987,797
 Paul Murphy,Paul,Murphy,Torfaen,Lab,03/07/1987,,118 c783-5,1987,783
@@ -1429,11 +1429,11 @@ Rosie Barnes,Rosie,Barnes,Greenwich,SDP,06/03/1987,,111 c1151-3,1983,1151
 George Howarth,George,Howarth,Knowsley North,Lab,26/11/1986,,106 c288-9,1983,288
 Llin Golding,Llin,Golding,Newcastle-under-Lyme,Lab,24/07/1986,,102 c647-8,1983,647
 Patrick McLoughlin,Patrick,McLoughlin,West Derbyshire,Con,10/06/1986,,99 c200-2,1983,200
-Elizabeth Shields,Elizabeth,Shields,Ryedale,Lib,22/05/1986,,98 c589-91,1983,589
+Elizabeth Shields,Elizabeth,Shields,Ryedale,LD,22/05/1986,,98 c589-91,1983,589
 Nick Raynsford,Nick,Raynsford,Fulham,Lab,22/04/1986,,96 c193-7,1983,193
 Seamus Mallon,Seamus,Mallon,Newry & Armagh,SDLP,20/02/1986,,92 c531-4,1983,531
 David Clelland,David,Clelland,Tyne Bridge,Lab,13/01/1986,,89 c829-31,1983,829
-Richard Livsey,Richard,Livsey,Brecon & Radnor,Lib,15/07/1985,,83 c49-51,1983,49
+Richard Livsey,Richard,Livsey,Brecon & Radnor,LD,15/07/1985,,83 c49-51,1983,49
 Michael Portillo,Michael,Portillo,"Enfield, Southgate",Con,04/03/1985,,74 c694-6,1983,694
 Virginia Bottomley,Virginia,Bottomley,South West Surrey,Con,19/06/1984,,62 c185-8,1983,185
 Mike Hancock,Mike,Hancock,Portsmouth South,SDP,19/06/1984,,62 c206-9,1983,206
@@ -1515,9 +1515,9 @@ Peter Thurnham,Peter,Thurnham,Bolton North East,Con,18/07/1983,,46 c72-4,1983,72
 Charles Kennedy,Charles,Kennedy,"Ross, Cromarty & Skye",SDP,15/07/1983,,45 c1114-6,1983,1114
 Marion Roe,Marion,Roe,Broxbourne,Con,15/07/1983,,45 c1151-3,1983,1151
 Spencer Batiste,Spencer,Batiste,Elmet,Con,14/07/1983,,45 c1050-3,1983,1050
-Archy Kirkwood,Archy,Kirkwood,Roxburgh & Berwickshire,Lib,12/07/1983,,45 c790-3,1983,790
+Archy Kirkwood,Archy,Kirkwood,Roxburgh & Berwickshire,LD,12/07/1983,,45 c790-3,1983,790
 Allan Rogers,Allan,Rogers,Rhondda,Lab,11/07/1983,,45 c726-8,1983,726
-Paddy Ashdown,Paddy,Ashdown,Yeovil,Lib,08/07/1983,,45 c528-32,1983,528
+Paddy Ashdown,Paddy,Ashdown,Yeovil,LD,08/07/1983,,45 c528-32,1983,528
 Tony Baldry,Tony,Baldry,Banbury,Con,08/07/1983,,45 c564-6,1983,564
 Roger Freeman,Roger,Freeman,Kettering,Con,08/07/1983,,45 c559-60,1983,559
 Richard Holt,Richard,Holt,Langbaurgh,Con,08/07/1983,,45 c537-9,1983,537
@@ -1549,7 +1549,7 @@ Martin Redmond,Martin,Redmond,Don Valley,Lab,05/07/1983,,45 c176-8,1983,176
 Tim Yeo,Tim,Yeo,South Suffolk,Con,05/07/1983,,45 c248-51,1983,248
 Kevin Barron,Kevin,Barron,Rother Valley,Lab,04/07/1983,,45 c78-80,1983,78
 Terry Patchett,Terry,Patchett,Barnsley East,Lab,04/07/1983,,45 c72-3,1983,72
-Jim Wallace,Jim,Wallace,Orkney & Shetland,Lib,04/07/1983,,45 c41-4,1983,41
+Jim Wallace,Jim,Wallace,Orkney & Shetland,LD,04/07/1983,,45 c41-4,1983,41
 Tony Banks,Tony,Banks,Newham North West,Lab,01/07/1983,,44 c839-42,1983,839
 Jeremy Corbyn,Jeremy,Corbyn,Islington North,Lab,01/07/1983,,44 c855-9,1983,855
 Terry Dicks,Terry,Dicks,Hayes & Harlington,Con,01/07/1983,,44 c853-5,1983,853
@@ -1561,7 +1561,7 @@ Robert Key,Robert,Key,Salisbury,Con,30/06/1983,,44 c742-3,1983,742
 Michael Howard,Michael,Howard,Folkestone & Hythe,Con,29/06/1983,,44 c633-5,1983,633
 Tom Sackville,Tom,Sackville,Bolton West,Con,29/06/1983,,44 c617-8,1983,617
 Clare Short,Clare,Short,"Birmingham, Ladywood",Lab,29/06/1983,,44 c623-6,1983,623
-Alex Carlile,Alex,Carlile,Montgomery,Lib,28/06/1983,,44 c513-5,1983,513
+Alex Carlile,Alex,Carlile,Montgomery,LD,28/06/1983,,44 c513-5,1983,513
 Robert Harvey,Robert,Harvey,Clwyd South West,Con,28/06/1983,,44 c492-4,1983,492
 John Hume,John,Hume,Foyle,SDLP,28/06/1983,,44 c507-10,1983,507
 Robert Jackson,Robert,Jackson,Wantage,Con,28/06/1983,,44 c520-2,1983,520
@@ -1569,7 +1569,7 @@ William McCrea,William,McCrea,Mid Ulster,DUP,28/06/1983,,44 c525-9,1983,525
 Peter Pike,Peter,Pike,Burnley,Lab,28/06/1983,,44 c529-32,1983,529
 Jonathan Sayeed,Jonathan,Sayeed,Bristol East,Con,28/06/1983,,44 c498-500,1983,498
 Stuart Bell,Stuart,Bell,Middlesbrough,Lab,27/06/1983,,44 c393-5,1983,393
-Malcolm Bruce,Malcolm,Bruce,Gordon,Lib,27/06/1983,,44 c386-9,1983,386
+Malcolm Bruce,Malcolm,Bruce,Gordon,LD,27/06/1983,,44 c386-9,1983,386
 Harry Cohen,Harry,Cohen,Leyton,Lab,27/06/1983,,44 c419-21,1983,419
 Mark Fisher,Mark,Fisher,Stoke-on-Trent Central,Lab,27/06/1983,,44 c371-4,1983,371
 Roy Galley,Roy,Galley,Halifax,Con,27/06/1983,,44 c379-81,1983,379
@@ -1587,10 +1587,10 @@ Roland Boyes,Roland,Boyes,Houghton & Washington,Lab,23/06/1983,,44 c203-6,1983,2
 Derek Conway,Derek,Conway,Shrewsbury & Atcham,Con,23/06/1983,,44 c212-4,1983,212
 Edwina Currie,Edwina,Currie,South Derbyshire,Con,23/06/1983,,44 c194-6,1983,194
 Ron Davies,Ron,Davies,Caerphilly,Lab,23/06/1983,,44 c228-30,1983,228
-Michael Meadowcroft,Michael,Meadowcroft,Leeds West,Lib,23/06/1983,,44 c199-201,1983,199
+Michael Meadowcroft,Michael,Meadowcroft,Leeds West,LD,23/06/1983,,44 c199-201,1983,199
 Wareing Bob,Wareing,Bob,"Liverpool, West Derby",Lab,23/06/1983,,44 c222-6,1983,222
 Ossie O'Brien,Ossie,O'Brien,Darlington,Lab,14/04/1983,,40 c971-4,1979,971
-Simon Hughes,Simon,Hughes,Bermondsey,Lib,21/03/1983,,39 c582-5,1979,582
+Simon Hughes,Simon,Hughes,Bermondsey,LD,21/03/1983,,39 c582-5,1979,582
 Helen McElhone,Helen,McElhone,"Glasgow, Queen's Park",Lab,17/01/1983,,35 c129-31,1979,129
 John Spellar,John,Spellar,"Birmingham, Northfield",Lab,10/11/1982,,31 c590-1,1979,590
 Harriet Harman,Harriet,Harman,Peckham,Lab,05/11/1982,,31 c239-41,1979,239
@@ -1598,7 +1598,7 @@ Gareth Wardell,Gareth,Wardell,Gower,Lab,03/11/1982,,31 c33-4,1979,33
 Angela Rumbold,Angela,Rumbold,"Merton, Mitcham & Morden",Con,27/07/1982,,28 c954-5,1979,954
 Tom Clarke,Tom,Clarke,Coatbridge & Airdrie,Lab,14/07/1982,,27 c1069-72,1979,1069
 Martin Smyth,Martin,Smyth,Belfast South,UUP,22/03/1982,,20 c700-02,1979,700
-Bill Pitt,Bill,Pitt,Croydon North West,Lib,10/11/1981,,12 c446-8,1979,446
+Bill Pitt,Bill,Pitt,Croydon North West,LD,10/11/1981,,12 c446-8,1979,446
 Robert McTaggart,Robert,McTaggart,Glasgow Central,Lab,10/07/1980,,988 c798-801,1979,798
 Den Dover,Den,Dover,Chorley,Con,17/12/1979,,976 c83-6,1979,83
 Neil Thorne,Neil,Thorne,Ilford South,Con,17/12/1979,,976 c94-7,1979,94
@@ -1717,9 +1717,9 @@ John Mackay,John,Mackay,Argyll,Con,16/05/1979,,967 c307-10,1979,307
 John McWilliam,John,McWilliam,Blaydon,Lab,16/05/1979,,967 c290-2,1979,290
 James Pawsey,James,Pawsey,Rugby,Con,16/05/1979,,967 c344-7,1979,344
 Barry Porter,Barry,Porter,Bebington & Ellesmere Port,Con,16/05/1979,,967 c252-5,1979,252
-David Alton,David,Alton,"Liverpool, Edge Hill",Lib,03/04/1979,,965 c1221-6,1974b,1221
+David Alton,David,Alton,"Liverpool, Edge Hill",LD,03/04/1979,,965 c1221-6,1974b,1221
 John Gunnell ,John,Gunnell ,Leeds South and Morley,Lab,20/05/1992,,208 c385-8,1992,385
-David Alton,David,Alton,Liverpool Edge Hill,Lib,03/04/1979,,965 c1221-6,1974b,1221
+David Alton,David,Alton,Liverpool Edge Hill,LD,03/04/1979,,965 c1221-6,1974b,1221
 Geoffrey Lofthouse ,Geoffrey,Lofthouse ,Pontefract and Castleford,Lab,14/12/1978,,960 c942-7,1974b,942
 John Home Robertson,John Home,Robertson,Berwick and East Lothian,Lab,09/11/1978,,957 c1256-60,1974b,1256
 Allen Mckay ,Allen,Mckay ,Penistone,Lab,25/07/1978,,954 c1412-5,1974b,1412
@@ -1768,7 +1768,7 @@ Margaret Jackson (later Beckett),Margaret,Jackson (later Beckett),Lincoln,Lab,04
 Mike Alfred Noble ,Mike Alfred,Noble ,Rossendale,Lab,04/11/1974,,880 c778-81,1974b,778
 John Cartwright ,John,Cartwright ,Woolwich East,Lab,01/11/1974,,880 c603-8,1974b,603
 Tom Litterick ,Tom,Litterick ,Birmingham Selly Oak,Lab,01/11/1974,,880 c616-21,1974b,616
-David Penhaligon ,David,Penhaligon ,Truro,Lib,01/11/1974,,880 c576-8,1974b,576
+David Penhaligon ,David,Penhaligon ,Truro,LD,01/11/1974,,880 c576-8,1974b,576
 John Watkinson ,John,Watkinson ,Gloucestershire West,Lab,01/11/1974,,880 c591-4,1974b,591
 Michael Ward ,Michael,Ward ,Peterborough,Lab,31/10/1974,,880 c454-7,1974b,454
 Ken Weetch ,Ken,Weetch ,Ipswich,Lab,31/10/1974,,880 c431-5,1974b,431
@@ -1842,7 +1842,7 @@ Ian Grist ,Ian,Grist ,Cardiff North,Con,21/03/1974,,870 c1383-6,1974a,1383
 Douglas Henderson ,Douglas,Henderson ,Aberdeenshire East,SNP ,20/03/1974,,870 c1143-6,1974a,1143
 Barry Henderson ,Barry,Henderson ,Dunbartonshire East,Con,20/03/1974,,870 c1107-10,1974a,1107
 Iain Maccormick ,Iain,Maccormick ,Argyll,SNP ,20/03/1974,,870 c1096-1100,1974a,1096
-Stephen Ross ,Stephen,Ross ,Isle of Wight,Lib,20/03/1974,,870 c1151-5,1974a,1151
+Stephen Ross ,Stephen,Ross ,Isle of Wight,LD,20/03/1974,,870 c1151-5,1974a,1151
 Sydney Tierney ,Sydney,Tierney ,Birmingham Yardley,Lab,20/03/1974,,870 c1277-82,1974a,1277
 Ivor Clemitson,Ivor,Clemitson,Luton East,Lab,19/03/1974,,870 c915-9,1974a,915
 Douglas Hurd ,Douglas,Hurd ,Oxon Mid,Con,19/03/1974,,870 c912-5,1974a,912
@@ -1867,7 +1867,7 @@ George Reid ,George,Reid ,Clackmannan and East Stirlingshire,SNP ,15/03/1974,,87
 Michael  Ancram,Michael ,Ancram,Berwick and East Lothian,Con,14/03/1974,,870 c437-9,1974a,437
 Maureen Colquhoun,Maureen,Colquhoun,Northampton North,Lab,14/03/1974,,870 c414-7,1974a,414
 Robin Cook,Robin,Cook,Edinburgh Central,Lab,14/03/1974,,870 c481-5,1974a,481
-Geraint Howells ,Geraint,Howells ,Cardigan,Lib,14/03/1974,,870 c429-32,1974a,429
+Geraint Howells ,Geraint,Howells ,Cardigan,LD,14/03/1974,,870 c429-32,1974a,429
 Max Madden ,Max,Madden ,Sowerby,Lab,14/03/1974,,870 c440-2,1974a,440
 James Harold Mccusker ,James Harold,Mccusker ,Armagh,UUP,14/03/1974,,870 c473-6,1974a,473
 John Ovenden ,John,Ovenden ,Gravesend,Lab,14/03/1974,,870 c485-8,1974a,485
@@ -1888,21 +1888,21 @@ Andrew Bennett,Andrew,Bennett,Stockport North,Lab,12/03/1974,,870 c171-3,1974a,1
 Bob George Cryer ,Bob George,Cryer ,Keighley,Lab,12/03/1974,,870 c158-62,1974a,158
 Joseph Dean ,Joseph,Dean ,Leeds West,Lab,12/03/1974,,870 c162-5,1974a,162
 Michael Latham ,Michael,Latham ,Melton,Con,12/03/1974,,870 c165-70,1974a,165
-Paul Tyler ,Paul,Tyler ,Bodmin,Lib,12/03/1974,,870 c143-7,1974a,143
+Paul Tyler ,Paul,Tyler ,Bodmin,LD,12/03/1974,,870 c143-7,1974a,143
 Timothy Sainsbury ,Timothy,Sainsbury ,Hove,Con,18/12/1973,,866 c1221-5,1970,1221
-Alan Beith,Alan,Beith,Berwick-Upon-Tweed,Lib,11/12/1973,,866 c237-42,1970,237
+Alan Beith,Alan,Beith,Berwick-Upon-Tweed,LD,11/12/1973,,866 c237-42,1970,237
 Margo Macdonald ,Margo,Macdonald ,Glasgow Govan,SNP ,11/12/1973,,866 c284-5,1970,284
 Alexander Fletcher ,Alexander,Fletcher ,Edinburgh North,Con,05/12/1973,,865 c1321-5,1970,1321
-David Austick,David,Austick,Ripon,Lib,06/11/1973,,863 c858-63,1970,858
-Clement Freud ,Clement,Freud ,Isle of Ely,Lib,01/11/1973,,863 c373-6,1970,373
+David Austick,David,Austick,Ripon,LD,06/11/1973,,863 c858-63,1970,858
+Clement Freud ,Clement,Freud ,Isle of Ely,LD,01/11/1973,,863 c373-6,1970,373
 Betty Boothroyd,Betty,Boothroyd,West Bromwich,Lab,18/07/1973,,860 c536-40,1970,536
 Roger Stott ,Roger,Stott ,Westhoughton,Lab,18/07/1973,,860 c568-71,1970,568
 Frank Hatton ,Frank,Hatton ,Manchester Exchange,Lab,02/07/1973,,859 c127-9,1970,127
 Giles Radice ,Giles,Radice ,Chester-le-Street,Lab,12/03/1973,,852 c966-9,1970,966
 George Machin ,George,Machin ,Dundee East,Lab,08/03/1973,,852 c654-6,1970,654
 Michael Shersby ,Michael,Shersby ,Uxbridge,Con,01/02/1973,,849 c1670-4,1970,1670
-Graham Tope ,Graham,Tope ,Sutton and Cheam,Lib,12/12/1972,,848 c282-6,1970,282
-Cyril Smith ,Cyril,Smith ,Rochdale,Lib,02/11/1972,,845 c371-4,1970,371
+Graham Tope ,Graham,Tope ,Sutton and Cheam,LD,12/12/1972,,848 c282-6,1970,282
+Cyril Smith ,Cyril,Smith ,Rochdale,LD,02/11/1972,,845 c371-4,1970,371
 Norman Lamont ,Norman,Lamont ,Kingston Upon Thames,Con,13/07/1972,,840 c1887-92,1970,1887
 Harry Lamborn ,Harry,Lamborn ,Southwark,Lab,08/05/1972,,836 c1009-12,1970,1009
 Nicholas Winterton ,Nicholas,Winterton ,Macclesfield,Con,22/11/1971,,826 c999-1003,1970,999
@@ -2060,7 +2060,7 @@ Frank Mcelhone ,Frank,Mcelhone ,Glasgow Gorbals,Lab,18/11/1969,,791 c1175-9,1966
 Michael O'Halloran ,Michael,O'Halloran ,Islington North,Lab,14/11/1969,,791 c772-4,1966,772
 John Golding ,John,Golding ,Newcastle-under-Lyme,Lab,05/11/1969,,790 c1054-6,1966,1054
 Arthur Latham ,Arthur,Latham ,Paddington North,Lab,04/11/1969,,790 c867-71,1966,867
-Wallace Leslie Lawler ,Wallace Leslie,Lawler ,Ladywood,Lib,23/07/1969,,787 c1917-20,1966,1917
+Wallace Leslie Lawler ,Wallace Leslie,Lawler ,Ladywood,LD,23/07/1969,,787 c1917-20,1966,1917
 Jerry Wiggin ,Jerry,Wiggin ,Weston-Super-Mare,Con,16/06/1969,,785 c72-5,1966,72
 Bernadette Devlin (later McAliskey),Bernadette,Devlin (later McAliskey),Mid Ulster,Ind,22/04/1969,,782 c281-8,1966,281
 Michael Mcnair-Wilson ,Michael,Mcnair-Wilson ,Walthamstow East,Con,17/04/1969,,781 c1381-3,1966,1381
@@ -2115,7 +2115,7 @@ Sydney Bidwell,Sydney,Bidwell,Southall,Lab,12/05/1966,,728 c679-82,1966,679
 Robert Davies ,Robert,Davies ,Cambridge,Lab,12/05/1966,,728 c635-9,1966,635
 Antony  Gardner ,Antony ,Gardner ,Rushcliffe,Lab,12/05/1966,,728 c642-5,1966,642
 Hugh Rossi ,Hugh,Rossi ,Hornsey,Con,12/05/1966,,728 c639-42,1966,639
-Michael Winstanley ,Michael,Winstanley ,Cheadle,Lib,12/05/1966,,728 c657-62,1966,657
+Michael Winstanley ,Michael,Winstanley ,Cheadle,LD,12/05/1966,,728 c657-62,1966,657
 Ronald Atkins,Ronald,Atkins,Preston North,Lab,11/05/1966,,728 c432-5,1966,432
 Russell Kerr ,Russell,Kerr ,Feltham,Lab,11/05/1966,,728 c502-6,1966,502
 John Dennis (Don) Concannon,John Dennis (Don),Concannon,Mansfield,Lab,10/05/1966,,728 c280-5,1966,280
@@ -2133,7 +2133,7 @@ Edwin Brooks ,Edwin,Brooks ,Bebington,Lab,05/05/1966,,727 c1917-22,1966,1917
 James Dickens ,James,Dickens ,Lewisham West,Lab,05/05/1966,,727 c1907-11,1966,1907
 David Marquand ,David,Marquand ,Ashfield,Lab,05/05/1966,,727 c1965-9,1966,1965
 Bonner R. Pink ,Bonner R.,Pink ,Portsmouth South,Con,05/05/1966,,727 c1952-4,1966,1952
-Richard Wainwright ,Richard,Wainwright ,Colne Valley,Lib,05/05/1966,,727 c1938-42,1966,1938
+Richard Wainwright ,Richard,Wainwright ,Colne Valley,LD,05/05/1966,,727 c1938-42,1966,1938
 Donald Dewar ,Donald,Dewar ,Aberdeen South,Lab,04/05/1966,,727 c1686-91,1966,1686
 Frank Judd ,Frank,Judd ,Portsmouth West,Lab,04/05/1966,,727 c1718-23,1966,1718
 Alexander Lyon ,Alexander,Lyon ,York,Lab,04/05/1966,,727 c1736-40,1966,1736
@@ -2146,7 +2146,7 @@ Roland Moyle ,Roland,Moyle ,Lewisham North,Lab,03/05/1966,,727 c1483-7,1966,1483
 William  Hilton ,William ,Hilton ,Bethnal Green,Lab,02/05/1966,,727 c1262-7,1966,1262
 Peter Archer,Peter,Archer,Rowley Regis and Tipton,Lab,29/04/1966,,727 c1155-8,1966,1155
 John Ashley,John,Ashley,Stoke on Trent South,Lab,28/04/1966,,727 c1006-9,1966,1006
-James Davidson ,James,Davidson ,West Aberdeenshire,Lib,28/04/1966,,727 c1022-8,1966,1022
+James Davidson ,James,Davidson ,West Aberdeenshire,LD,28/04/1966,,727 c1022-8,1966,1022
 Andrew Faulds ,Andrew,Faulds ,Smethwick,Lab,28/04/1966,,727 c1050-3,1966,1050
 Gerald Fowler ,Gerald,Fowler ,Wrekin,Lab,28/04/1966,,727 c1028-32,1966,1028
 John M.H. Lee ,John M.H.,Lee ,Reading,Lab,28/04/1966,,727 c996-9,1966,996
@@ -2158,7 +2158,7 @@ Arnold Shaw ,Arnold,Shaw ,Ilford South,Lab,26/04/1966,,727 c579-82,1966,579
 Denis Coe,Denis,Coe,Middleton and Prestwich,Lab,25/04/1966,,727 c465-70,1966,465
 Gerard Fitt ,Gerard,Fitt ,Belfast West,Lab,25/04/1966,,727 c437-46,1966,437
 Richard  Mitchell ,Richard ,Mitchell ,Southampton Test,Lab,25/04/1966,,727 c420-3,1966,420
-John Pardoe ,John,Pardoe ,Cornwall North,Lib,25/04/1966,,727 c423-6,1966,423
+John Pardoe ,John,Pardoe ,Cornwall North,LD,25/04/1966,,727 c423-6,1966,423
 Alan Lee Williams ,Alan Lee,Williams ,Hornchurch,Lab,25/04/1966,,727 c401-3,1966,401
 Albert Booth,Albert,Booth,Barrow-in-Furness,Lab,22/04/1966,,727 c266-8,1966,266
 Tom Mcmillan ,Tom,Mcmillan ,Glasgow Central,Lab,22/04/1966,,727 c282-4,1966,282
@@ -2169,7 +2169,7 @@ John Smith ,John,Smith ,London City of and Westminster,Con,31/01/1966,,723 c756-
 James Wellbeloved ,James,Wellbeloved ,Erith and Crayford,Lab,06/12/1965,,722 c69-72,1964,69
 Clifford Williams ,Clifford,Williams ,Abertillery,Lab,02/08/1965,,717 c1119-21,1964,1119
 Reginald Eyre ,Reginald,Eyre ,Birmingham Hall Green,Con,01/07/1965,,715 c880-4,1964,880
-David Steel ,David,Steel ,Roxburgh Selkirk and Peebles,Lib,12/04/1965,,710 990-3,1964,990
+David Steel ,David,Steel ,Roxburgh Selkirk and Peebles,LD,12/04/1965,,710 990-3,1964,990
 Ronald Buxton ,Ronald,Buxton ,Leyton,Con,08/04/1965,,710 c711-7,1964,711
 Michael English ,Michael,English ,Nottingham West,Lab,05/04/1965,,710 c68-71,1964,68
 Paul Hawkins ,Paul,Hawkins ,Norfolk South West,Con,31/03/1965,,709 c1693-98,1964,1693
@@ -2222,14 +2222,14 @@ Hugh Brown ,Hugh,Brown ,Glasgow Provan,Lab,25/11/1964,,702 c1348-53,1964,1348
 Alexander Garrow ,Alexander,Garrow ,Glasgow Pollok,Lab,25/11/1964,,702 c1339-42,1964,1339
 Terence Higgins ,Terence,Higgins ,Worthing,Con,25/11/1964,,702 c1342-8,1964,1342
 James Kilfedder ,James,Kilfedder ,Belfast West,Ind,25/11/1964,,702 c1353-6,1964,1353
-Alasdair Mackenzie ,Alasdair,Mackenzie ,Ross and Cromarty,Lib,25/11/1964,,702 c1336-9,1964,1336
+Alasdair Mackenzie ,Alasdair,Mackenzie ,Ross and Cromarty,LD,25/11/1964,,702 c1336-9,1964,1336
 Michael Mcguire ,Michael,Mcguire ,Ince,Lab,25/11/1964,,702 c1331-6,1964,1331
 John Bruce-Gardyne,John,Bruce-Gardyne,South Angus,Con,24/11/1964,,702 c1165-70,1964,1165
 James Hamilton ,James,Hamilton ,Fermanagh and South Tyrone,UUP,24/11/1964,,702 c1130-3,1964,1130
 William Hamling ,William,Hamling ,Woolwich West,Lab,24/11/1964,,702 c1116-7,1964,1116
 Peter Hordern ,Peter,Hordern ,Horsham,Con,24/11/1964,,702 c1149-54,1964,1149
 Harry Howarth ,Harry,Howarth ,Wellingborough,Lab,24/11/1964,,702 c1133-6,1964,1133
-Russell Johnston ,Russell,Johnston ,Inverness,Lib,24/11/1964,,702 c1136-9,1964,1136
+Russell Johnston ,Russell,Johnston ,Inverness,LD,24/11/1964,,702 c1136-9,1964,1136
 Hector Monro ,Hector,Monro ,Dumfries,Con,24/11/1964,,702 c1119-22,1964,1119
 Peter Blaker,Peter,Blaker,Blackpool South,Con,23/11/1964,,702 c948-51,1964,948
 David Ennals ,David,Ennals ,Dover,Lab,23/11/1964,,702 c970-5,1964,970
@@ -2254,7 +2254,7 @@ Dennis Hobden ,Dennis,Hobden ,Brighton Kemptown,Lab,13/11/1964,,701 c1376-9,1964
 Edward Leadbitter ,Edward,Leadbitter ,Hartlepool,Lab,13/11/1964,,701 c1355-6,1964,1355
 Albert Murray ,Albert,Murray ,Gravesend,Lab,13/11/1964,,701 c1360-2,1964,1360
 Geoffrey W. Rhodes ,Geoffrey W.,Rhodes ,Newcastle-upon-Tyne East,Lab,13/11/1964,,701 c1368-72,1964,1368
-Peter Bessell,Peter,Bessell,Bodmin,Lib,12/11/1964,,701 c1227-33,1964,1227
+Peter Bessell,Peter,Bessell,Bodmin,LD,12/11/1964,,701 c1227-33,1964,1227
 Arnold Gregory ,Arnold,Gregory ,Stockport North,Lab,12/11/1964,,701 c1290-3,1964,1290
 Geoffrey Howe  ,Geoffrey,Howe  ,Bebington,Con,12/11/1964,,701 c1235-40,1964,1235
 Adam Hunter ,Adam,Hunter ,Dunfermline Burghs,Lab,12/11/1964,,701 c1272-4,1964,1272
@@ -2283,7 +2283,7 @@ Paul Dean ,Paul,Dean ,North Somerset,Con,06/11/1964,,701 c565-9,1964,565
 Ioan L. Evans ,Ioan L.,Evans ,Birmingham Yardley,Lab,06/11/1964,,701 c593-7,1964,593
 Reginald  Freeson ,Reginald ,Freeson ,Willesden East,Lab,06/11/1964,,701 c558-65,1964,558
 Peter Griffiths ,Peter,Griffiths ,Smethwick,Con,06/11/1964,,701 c556-8,1964,556
-George Mackie ,George,Mackie ,Caithness and Sutherland,Lib,06/11/1964,,701 c573-7,1964,573
+George Mackie ,George,Mackie ,Caithness and Sutherland,LD,06/11/1964,,701 c573-7,1964,573
 William Molloy ,William,Molloy ,Ealing North,Lab,06/11/1964,,701 c569-73,1964,569
 Brian Walden ,Brian,Walden ,Birmingham All Saints,Lab,06/11/1964,,701 c602-7,1964,602
 Ernest  Armstrong,Ernest ,Armstrong,North West Durham,Lab,05/11/1964,,701 c430-3,1964,430
@@ -2326,14 +2326,14 @@ Malcolm St. Clair ,Malcolm,St. Clair ,Bristol South East,Con,23/11/1962,,667 c16
 Tom Bradley,Tom,Bradley,Leicester North East,Lab,15/11/1962,,667 c613-6,1959,613
 Norman Miscampbell ,Norman,Miscampbell ,Blackpool North,Con,07/11/1962,,666 c1041-5,1959,1041
 John William Biffen,John William,Biffen,Oswestry,Con,26/07/1962,,663 c1779-85,1959,1779
-Emlyn Hooson ,Emlyn,Hooson ,Montgomeryshire,Lib,23/07/1962,,663 c988-93,1959,988
+Emlyn Hooson ,Emlyn,Hooson ,Montgomeryshire,LD,23/07/1962,,663 c988-93,1959,988
 Tam Dalyell ,Tam,Dalyell ,West Lothian,Lab,10/07/1962,,662 c1185-92,1959,1185
 Jeremy Bray,Jeremy,Bray,Middlesbrough West,Lab,03/07/1962,,662 c398-405,1959,398
 William Rodgers ,William,Rodgers ,Stockton-on-Tees,Lab,07/06/1962,,661 c706-11,1959,706
 Joseph Harper ,Joseph,Harper ,Pontefract,Lab,11/04/1962,,657 c1361-5,1959,1361
 Frank Taylor ,Frank,Taylor ,Manchester Moss Side ,Con,10/04/1962,,657 c1210-14,1959,1210
 Dick Taverne ,Dick,Taverne ,Lincoln,Lab,28/03/1962,,656 c1383-6,1959,1383
-Eric Lubbock ,Eric,Lubbock ,Orpington,Lib,27/03/1962,,656 c1102-8,1959,1102
+Eric Lubbock ,Eric,Lubbock ,Orpington,LD,27/03/1962,,656 c1102-8,1959,1102
 John Gilmour  ,John,Gilmour  ,Fife East,Con,12/02/1962,,653 c949-52,1959,949
 James Bennet,James,Bennet,Glasgow Bridgetown,Lab,22/11/1961,,649 c1401-2,1959,1401
 Joan M. Quennell ,Joan M.,Quennell ,Petersfield,Con,31/07/1961,,641 c307-11,1959,307
@@ -2430,7 +2430,7 @@ Elfred Davies ,Elfred,Davies ,Rhondda East,Lab,10/11/1959,,613 c276-80,1959,276
 David Ginsburg ,David,Ginsburg ,Dewsbury,Lab,10/11/1959,,613 c259-64,1959,259
 Charles Loughlin,Charles,Loughlin,Gloucestershire West ,Lab,10/11/1959,,613 c269-73,1959,269
 William Small ,William,Small ,Scotstoun,Lab,10/11/1959,,613 c241-5,1959,241
-Jeremy Thorpe  ,Jeremy,Thorpe  ,Devon North ,Lib,10/11/1959,,613 c249-53,1959,249
+Jeremy Thorpe  ,Jeremy,Thorpe  ,Devon North ,LD,10/11/1959,,613 c249-53,1959,249
 Edwin Wainwright ,Edwin,Wainwright ,Dearne Valley,Lab,10/11/1959,,613 c283-7,1959,283
 Harold James Boyden,Harold James,Boyden,Bishop Auckland,Lab,09/11/1959,,613 c63-6,1959,63
 Percy Browne,Percy,Browne,Torrington,Con,09/11/1959,,613 c60-3,1959,60
@@ -2638,7 +2638,7 @@ Rolf Dudley Williams ,Rolf Dudley,Williams ,Exeter,Con,30/01/1952,,495 c265-7,19
 Frederick Gough ,Frederick,Gough ,Horsham,Con,06/12/1951,,494 c2617-20,1951,2617
 Charles Doughty ,Charles,Doughty ,East Surrey,Con,04/12/1951,,494 c2281-5,1951,2281
 Joseph Godber ,Joseph,Godber ,Grantham,Con,04/12/1951,,494 c2291-5,1951,2291
-Arthur Holt ,Arthur,Holt ,Bolton West,Lib,04/12/1951,,494 c2274-7,1951,2274
+Arthur Holt ,Arthur,Holt ,Bolton West,LD,04/12/1951,,494 c2274-7,1951,2274
 Ernest Partridge ,Ernest,Partridge ,Battersea South,Con,04/12/1951,,494 c2300-3,1951,2300
 William Wellwood ,William,Wellwood ,Londonderry,UUP,03/12/1951,,494 c2081-2,1951,2081
 William Waldorf Astor,William Waldorf,Astor,Wycombe,Con,26/11/1951,,494 c961-5,1951,961
@@ -2775,8 +2775,8 @@ George Craddock ,George,Craddock ,Bradford South,Lab,10/03/1950,,472 c704-6,1950
 Desmond Donnelly ,Desmond,Donnelly ,Pembroke,Lab,10/03/1950,,472 c682-3,1950,682
 Malcolm Douglas-Hamilton   ,Malcolm,Douglas-Hamilton   ,Inverness,Con,10/03/1950,,472 c630,1950,630
 Harold Finch ,Harold,Finch ,Bedwellty,Lab,10/03/1950,,472 c675-7,1950,675
-Jo Grimond ,Jo,Grimond ,Orkney and Shetland,Lib,10/03/1950,,472 c625-9,1950,625
-Archibold J.F. Macdonald ,Archibold J.F.,Macdonald ,Roxburgh and Selkirk,Lib,10/03/1950,,472 c615-9,1950,615
+Jo Grimond ,Jo,Grimond ,Orkney and Shetland,LD,10/03/1950,,472 c625-9,1950,625
+Archibold J.F. Macdonald ,Archibold J.F.,Macdonald ,Roxburgh and Selkirk,LD,10/03/1950,,472 c615-9,1950,615
 Reginald Maudling   ,Reginald,Maudling   ,Barnet,Con,10/03/1950,,472 c678-81,1950,678
 Ronald S. Russell  ,Ronald S.,Russell  ,Wembley South,Con,10/03/1950,,472 c686-9,1950,686
 Richard Stanley,Richard,Stanley,Fylde North ,Con,10/03/1950,,472 c693-6,1950,693
@@ -2942,7 +2942,7 @@ Frederick Erroll ,Frederick,Erroll ,Altrincham and Sale,Con,29/11/1945,,416 c163
 Wesley Perrins ,Wesley,Perrins ,Yardley,Soc,27/11/1945,,416 c1141-2,1945,1141
 Arthur Joseph Champion ,Arthur Joseph,Champion ,Derbyshire South,Lab,26/11/1945,,416 c970-5,1945,970
 George Chetwynd ,George,Chetwynd ,Stockton-on-Tees,Lab,26/11/1945,,416 c926-30,1945,926
-George Wadsworth ,George,Wadsworth ,Buckrose,Lib,26/11/1945,,416 c955-7,1945,955
+George Wadsworth ,George,Wadsworth ,Buckrose,LD,26/11/1945,,416 c955-7,1945,955
 Victor Yates ,Victor,Yates ,Ladywood,Lab,26/11/1945,,416 c938-43,1945,938
 Sydney Schofield Allen,Sydney Schofield,Allen,Crewe,Lab,23/11/1945,,416 c636-9,1945,636
 Joseph Binns,Joseph,Binns,Gillingham ,Lab,23/11/1945,,416 c803-5,1945,803
@@ -2984,7 +2984,7 @@ William  Keenan ,William ,Keenan ,Kirkdale,Soc,12/11/1945,,415 c1799-803,1945,17
 Heathcoat Derek  Amory,Heathcoat Derek ,Amory,Tiverton,Con,09/11/1945,,415 c1682-6,1945,1682
 Evelyn Mansfield King ,Evelyn Mansfield,King ,Penryn and Falmouth,Lab,09/11/1945,,415 c1678-82,1945,1678
 Muriel  Nichol ,Muriel ,Nichol ,Bradford North,Lab,09/11/1945,,415 c1659-62,1945,1659
-Evan Roderic Bowen,Evan Roderic,Bowen,Cardigan,Lib,08/11/1945,,415 c1477-1479,1945,1477
+Evan Roderic Bowen,Evan Roderic,Bowen,Cardigan,LD,08/11/1945,,415 c1477-1479,1945,1477
 Alan Gomme-Duncan  ,Alan,Gomme-Duncan  ,Perth and Kinross,Con,08/11/1945,,415 c1509-11,1945,1509
 John Macleod  ,John,Macleod  ,Ross and Cromarty,Ind,08/11/1945,,415 c1489-92,1945,1489
 Donald Bruce,Donald,Bruce,Portsmouth North,Lab,07/11/1945,,415 c1317-24,1945,1317
@@ -3065,7 +3065,7 @@ George Reid Thomson  ,George Reid,Thomson  ,Edinburgh East,Lab,18/10/1945,,414 c
 Robert Thorp ,Robert,Thorp ,Berwick-Upon-Tweed,Con,18/10/1945,,414 c1439-41,1945,1439
 John Baker White ,John Baker,White ,Canterbury,Con,18/10/1945,,414 c1441-4,1945,1441
 Elizabeth M. Braddock,Elizabeth M.,Braddock,Liverpool Exchange,Lab,17/10/1945,,414 c1256-1260,1945,1256
-Charles Byers,Charles,Byers,Northern Dorset,Lib,17/10/1945,,414 c1260-6,1945,1260
+Charles Byers,Charles,Byers,Northern Dorset,LD,17/10/1945,,414 c1260-6,1945,1260
 Ronald Chamberlain ,Ronald,Chamberlain ,Lambeth Norwood,Lab,17/10/1945,,414 c1237-41,1945,1237
 Edward A.  Davies ,Edward A. ,Davies ,Burslem,Lab,17/10/1945,,414 c1266-69,1945,1266
 Sidney Dye ,Sidney,Dye ,South West Norfolk,Lab,17/10/1945,,414 c1273-77,1945,1273
@@ -3138,7 +3138,7 @@ Clifford Kenyon ,Clifford,Kenyon ,Lancaster Chorley,Lab,21/08/1945,,413 c542-3,1
 John Lewis ,John,Lewis ,Bolton,Lab,21/08/1945,,413 c533-7,1945,533
 Ian Mikardo ,Ian,Mikardo ,Reading,Lab,21/08/1945,,413 c548-552,1945,548
 Arthur M.F. Palmer ,Arthur M.F.,Palmer ,Wimbledon,Lab,21/08/1945,,413 c556-61,1945,556
-Emrys Roberts ,Emrys,Roberts ,Merioneth,Lib,21/08/1945,,413 c507-510,1945,507
+Emrys Roberts ,Emrys,Roberts ,Merioneth,LD,21/08/1945,,413 c507-510,1945,507
 James Leonard Callaghan ,James Leonard,Callaghan ,Cardiff South,Lab,20/08/1945,,413 c351-4,1945,351
 Michael Foot ,Michael,Foot ,Devonport ,Lab,20/08/1945,,413 c336-41,1945,336
 Hugh Fraser  ,Hugh,Fraser  ,Stafford and Stoke,Con,20/08/1945,,413 c344-47,1945,344
@@ -3158,7 +3158,7 @@ Alfred Robens ,Alfred,Robens ,Wansbeck,Lab,17/08/1945,,413 c266-8,1945,266
 George Thomas ,George,Thomas ,Cardiff Central,Lab,17/08/1945,,413 c207-9,1945,207
 Derek Walker-Smith  ,Derek,Walker-Smith  ,Hertford,Con,17/08/1945,,413 c222-9,1945,222
 John Freeman ,John,Freeman ,Watford,Lab,16/08/1945,,413 c70-73,1945,70
-Hopkin Rhys Morris   ,Hopkin Rhys,Morris   ,Carmarthen,Lib,16/08/1945,,413 c146-8,1945,146
+Hopkin Rhys Morris   ,Hopkin Rhys,Morris   ,Carmarthen,LD,16/08/1945,,413 c146-8,1945,146
 John Paton ,John,Paton ,Norwich,Lab,16/08/1945,,413 c157-8,1945,157
 Frederick Willey ,Frederick,Willey ,Sunderland,Lab,16/08/1945,,413 c73-76,1945,73
 Alfred Dobbs ,Alfred,Dobbs ,Smethwick,Lab,03/08/1945,,,1945,

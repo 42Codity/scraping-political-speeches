@@ -33,7 +33,7 @@ suffixes$suffix <- ifelse(suffixes$numeric_suffix == 0, "",
                                                       ifelse(suffixes$numeric_suffix == 5, "e",
                                                              ifelse(suffixes$numeric_suffix == 6, "f",
                                                                     ifelse(suffixes$numeric_suffix == 7, "g",
-                                                                           NA))))))))
+                                                                           NA_character_))))))))
 suffixes <- suffixes[,-2]
 head(suffixes)
 

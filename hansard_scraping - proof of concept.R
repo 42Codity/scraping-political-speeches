@@ -1,5 +1,6 @@
 require(XML)
 require(stringi)
+require(readr)
 
 readFile <- function(fileName) {
   lines <- readLines(fileName, encoding = "UTF-8")
@@ -92,3 +93,29 @@ kim_speeches <- subset(dat, speaker == "Kim Leadbeater")
 maiden_speech <- kim_speeches[which.min(as.POSIXlt(paste(kim_speeches$date, kim_speeches$time))),]
 maiden_speech <- maiden_speech[,c(3,5)]
 maiden_speech
+
+write_tsv(data.frame(gsub("\n", " ", maiden_speech$text)), "~/Thesis - political language and voting behaviour/R - thesis analysis/leadbeater_maiden_speech.txt")
+
+require(koRpus)
+install.koRpus.lang("en")
+require("koRpus.lang.en")
+tokenized.maiden_speech <- koRpus::tokenize("~/Thesis - political language and voting behaviour/R - thesis analysis/leadbeater_maiden_speech.txt",
+                                            lang = "en",
+                                            doc_id = "kim.leadbeater")
+hyphenated.maiden_speech <- hyphen(tokenized.maiden_speech)
+readability.maiden_speech <- readability(tokenized.maiden_speech,
+            hyphen = hyphenated.maiden_speech)
+ari.maiden_speech <- readability.maiden_speech[1]
+
+extractARI <- function(speech, first_name, surname) {
+  doc_label <- paste0(first_name, "_", surname)
+  tokenized_speech <- koRpus::tokenize(speech, lang = "en", doc_id = doc_label)
+  hyphen_speech <- koRpus::hyphen(tokenized_speech)
+  readability_speech <- koRpus::readability(tokenized_speech, hyphen = hyphen_speech)
+  ari_speech <- readability_speech[1]
+  return(ari_speech)
+}
+
+extractARI(speech = "~/Thesis - political language and voting behaviour/R - thesis analysis/leadbeater_maiden_speech.txt",
+           first_name = "Kim",
+           surname = "Leadbeater")

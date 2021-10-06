@@ -96,7 +96,8 @@ maiden_speeches$date <- as.Date(maiden_speeches$date, format = "%d/%m/%Y")
 head(maiden_speeches)
 
 # We need to combine this dataset with the list of suffixes extracted separately
-suffixes <- read_csv("~/Thesis - political language and voting behaviour/R - thesis analysis/suffixes.csv")
+suffixes <- read_csv("~/Thesis - political language and voting behaviour/R - thesis analysis/suffixes.csv", 
+                     na = "NA")
 head(suffixes)
 # TheyWorkForYou maintain several different 'scrape versions' for each debate day. We need to specify which scrape version we want to access - the
 # most recent one: suffixes.csv contains the scrape version for the most recent of each of these dates (and NA where no version can be found)
@@ -131,41 +132,44 @@ for (i in 1:length(maiden_speeches$mp_name)) {
 }
 
 # We can then save this vector in a character format
-maiden_speeches$speech <- maiden_speech_results
+maiden_speeches$speech <- unlist(maiden_speech_results)
 sum(is.na(maiden_speeches$speech))
-# So, we're missing speeches for 926 MPs
+# So, we're missing speeches for 833 MPs
 
 # Then we can subset for MPs for which we have no maiden speech:
 missing_speeches <- subset(maiden_speeches, is.na(maiden_speeches$speech))
 missing_speech_results <- vector("list", length = length(missing_speeches$surname))
-for (i in 1:length(missing_speech_results$surname)) {
+for (i in 1:length(missing_speeches$surname)) {
   missing_speech_results[i] <- ifelse(!is.na(missing_speeches$suffix[i]),
                                      extractMaidenSpeech(speaker_name = missing_speeches$surname[i],
                                                          debate_date = missing_speeches$date[i],
                                                          scrape_version = missing_speeches$suffix[i]),
                                      NA)
 }
-missing_speeches$speech <- missing_speech_results
+missing_speeches$speech <- unlist(missing_speech_results)
+head(missing_speeches)
+
 sum(is.na(missing_speeches$speech))
-# Now only 215 missing speeches - we can check to see their distribution
+# Now only 120 missing speeches - we can check to see their distribution
 hist(missing_speeches[is.na(missing_speeches$speech),]$date, breaks = 10,
      xlab = "Date", main = "Missing maiden speeches by date of speech")
 # We have a lot of missing speeches towards the start of the sample, and lots missing from the 1997 intake
 barplot(sort(summary.factor(missing_speeches[is.na(missing_speeches$speech),]$party), decreasing = T),
-        col = c("red", "blue", "yellow", "gold", "lightblue", "grey", "white", "darkgreen", "darkred"),
+        col = c("blue", "red", "grey", "lightblue", "darkred", "yellow", "gold"),
         xlab = "Party", ylab = "Number of missing maiden speeches", main = "Missing maiden speeches by political party")
 
 
 # Then we can combine these surname-matched speeches with the maiden speeches identified with full names:
 maiden_speeches <- maiden_speeches[!is.na(maiden_speeches$speech),]
 maiden_speeches <- rbind(maiden_speeches, missing_speeches)
+sum(is.na(maiden_speeches$speech))
 
 # Then some descriptive statistics on the maiden speeches we have:
 hist(maiden_speeches[!is.na(maiden_speeches$speech),]$date, breaks = 10,
      xlab = "Date", main = "Maiden speeches by date of speech")
 # A fairly even distribution - which is good to see
 barplot(sort(summary.factor(maiden_speeches[!is.na(maiden_speeches$speech),]$party), decreasing = T)[1:10],
-        col = c("red", "blue", "yellow", "gold", "lightblue", "yellow", "white", "grey", "darkgreen", "green"),
+        col = c("red", "blue", "yellow", "gold", "lightblue", "yellow", "white", "darkgreen", "grey", "green"),
         xlab = "Party", ylab = "Number of maiden speeches", main = "Maiden speeches by political party")
 # A clear majority for the two major parties
 hist(maiden_speeches[!is.na(maiden_speeches$speech) & maiden_speeches$party == "Lab",]$date, breaks = 10,
@@ -177,3 +181,5 @@ hist(maiden_speeches[!is.na(maiden_speeches$speech) & maiden_speeches$party == "
 
 # So, after a quick inspection, we can write this maiden speech dataset into a .csv file
 write_csv(maiden_speeches, "~/Thesis - political language and voting behaviour/R - thesis analysis/scraped_maiden_speeches.csv")
+
+
