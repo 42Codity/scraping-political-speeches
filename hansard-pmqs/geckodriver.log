@@ -1,0 +1,35 @@
+1641145531100	geckodriver	INFO	Listening on 127.0.0.1:50335
+1641147920578	geckodriver	INFO	Listening on 127.0.0.1:62868
+1641151092066	geckodriver	INFO	Listening on 127.0.0.1:53457
+1641151214586	geckodriver	INFO	Listening on 127.0.0.1:53720
+1641151217620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\natha\\AppData\\Local\\Temp\\rust_mozprofileq3uIFa"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+1641151217908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\natha\\AppData\\Local\\Temp\\rust_mozprofileq3uIFa\\search.json.mozlz4", (void 0)))
+1641151219413	Marionette	INFO	Listening on port 53730
+1641151219668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://hansard.parliament.uk/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=6c76595b1d74771f, line 4: unreachable code after return statement
+JavaScript warning: https://hansard.parliament.uk/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=6c76595b1d74771f line 1 > Function, line 4: unreachable code after return statement
+1641151288368	Marionette	INFO	Stopped listening on port 53730
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644427959168	geckodriver	INFO	Listening on 127.0.0.1:62179
+1644427962221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62180" "-no-remote" "-profile" "C:\\Users\\natha\\AppData\\Local\\Temp\\rust_mozprofile8TPxxH"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+1644427963253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\natha\\AppData\\Local\\Temp\\rust_mozprofile8TPxxH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62180/devtools/browser/4a2fd192-287a-4c2d-aa9f-aa064e5bf585
+1644427966884	Marionette	INFO	Listening on port 62189
+1644427967043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644428019697	Marionette	INFO	Stopped listening on port 62189
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
