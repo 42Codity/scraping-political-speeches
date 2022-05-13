@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+hansard-in-full/hansard_in_full.csv
+hansard-in-full/hansard_with_mp_details.csv
