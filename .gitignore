@@ -3,8 +3,10 @@
 .RData
 .Ruserdata
 
+conference-speeches/speeches_df.csv
 hansard-in-full/hansard_in_full.csv
 hansard-in-full/hansard_with_mp_details.csv
 hansard-in-full/debates_xml
-hansard-pmqs/hansard_pmqs.csv
 hansard-maiden-speeches/scraped_maiden_speeches.csv
+hansard-pmqs/hansard_pmqs.csv
+hansard-pmqs/old
