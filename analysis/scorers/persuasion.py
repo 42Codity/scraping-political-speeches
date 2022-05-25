@@ -5,8 +5,6 @@ import nltk
 import math
 nltk.download('wordnet')
 
-def __init__():
-
 # Sentiment polarity trained on data from UK Hansard contributions
 # See Rheault, et al. (2016) 'Measuring emotion in parliamentary debates with automated text analysis'
 sentiment = pd.read_csv('https://raw.githubusercontent.com/lrheault/emotion/master/lexicon-polarity.csv')
