@@ -1,8 +1,15 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import tensorflow as tf
+import regex as re
 import os
 from nltk.stem import WordNetLemmatizer
+from scorers.cleaning import *
+
+# Load pre-trained TensorFlow model
+saved_model_path = os.path.join(os.path.dirname(__file__),'objectivity_vs_subjectivity\subjectivity_classifier')
+subjectivity_estimator = tf.saved_model.load(saved_model_path)
 
 # Speculative cues taken from 
 speculative_cues = ['may','might','can','would','should','could',
@@ -20,17 +27,33 @@ subjective_adjective_list = pd.read_csv('https://people.cs.pitt.edu/~wiebe/pubs/
 subjective_adjective_list = [word.strip() for word in subjective_adjective_list]
 
 def measure_subjectivity(text_list,sent_list,
+                         subjectivity_estimator=subjectivity_estimator,
                          speculative_cues=speculative_cues,
                          modal_verb_list=modal_verb_list,
                          subjective_adjective_list=subjective_adjective_list):
     
-    def measure_subjective_sentence_freq(sent_list):
-        subjective_sent_count = None
-        return subjective_sent_count/len(sent_list)
+    def measure_subjective_sentence_freq(sent_list, subjectivity_estimator=subjectivity_estimator):
+        subjectivity_predictions = []
+        # For each sentence:
+        for sent in sent_list:
+            example = tf.train.Example() # ...prepare an example for the sentence to be wrapped in
+            example.features.feature['sentence'].bytes_list.value.extend([bytes(sent, "utf-16")]) # ...encode the sentence as UTF-18
+            subjectivity_predictions.append(subjectivity_estimator.signatures['predict'](examples=tf.constant([example.SerializeToString()]))['class_ids'][0][0].numpy()) # ...append subjectivity prediction to list
+        return sum(subjectivity_predictions)/len(subjectivity_predictions)
+
+    def measure_avg_subjective_sentence_score(sent_list, subjectivity_estimator=subjectivity_estimator):
+        subjectivity_predictions = []
+        # For each sentence:
+        for sent in sent_list:
+            example = tf.train.Example() # ...prepare an example for the sentence to be wrapped in
+            example.features.feature['sentence'].bytes_list.value.extend([bytes(sent, "utf-16")]) # ...encode the sentence as UTF-18
+            subjectivity_predictions.append(subjectivity_estimator.signatures['predict'](examples=tf.constant([example.SerializeToString()]))['probabilities'][0][1].numpy()) # ...append subjectivity score to list
+        return np.nanmean(subjectivity_predictions)
 
     def measure_speculative_sentence_freq(sent_list, speculative_cues=speculative_cues):
         wnl = WordNetLemmatizer()
-        lemmatised_sent_list = [[wnl.lemmatize(word) for word in sent] for sent in sent_list]
+        cleaned_sent_list = [clean(sent) for sent in sent_list]
+        lemmatised_sent_list = [[wnl.lemmatize(word) for word in sent] for sent in cleaned_sent_list]
         speculative_sent_count = sum([1 for lemma_sent in lemmatised_sent_list if any([lemma in speculative_cues for lemma in lemma_sent])])
         return speculative_sent_count/len(sent_list)
 
@@ -43,6 +66,7 @@ def measure_subjectivity(text_list,sent_list,
         return subjective_adjective_count/len(text_list)
     
     subjectivity_feature_dict = {'subjective_sentence_freq':measure_subjective_sentence_freq(sent_list),
+                                 'avg_subjective_sentence_score':measure_avg_subjective_sentence_score(sent_list),
                                  'speculative_sentence_freq':measure_speculative_sentence_freq(sent_list),
                                  'modal_verb_freq':measure_modal_verb_freq(text_list),
                                  'subjective_adjective_freq':measure_subjective_adjective_freq(text_list)}
